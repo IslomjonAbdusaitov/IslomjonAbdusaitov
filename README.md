@@ -10,7 +10,13 @@ Here are some ideas to get you started:
 
 💬 Ask me about any technology.
 - 🌱 I’m currently learning Android (Native) Development.
-- 📫 How to reach me: [Telegram Contacts](https://t.me/IslomjonAbdusaitov)
 - 😄 Pronouns: Hi/Him
-
 ⚡ Fun fact: I am relaxed
+
+### Connect with me:
+[Telegram](https://t.me/IslomjonAbdusaitov)
+&nbsp;&nbsp;
+[Instagram](https://www.instagram.com/islomjon_offf)
+
+
+
