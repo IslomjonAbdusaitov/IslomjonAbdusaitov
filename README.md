@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 [Telegram](https://t.me/IslomjonAbdusaitov)
 &nbsp;&nbsp;
 [Instagram](https://www.instagram.com/islomjon_offf)
+&nbsp;&nbsp;
+[Linkedin](https://www.linkedin.com/in/islomjon-abdusaitov-5777b0235/)
+
+
 
 
 
