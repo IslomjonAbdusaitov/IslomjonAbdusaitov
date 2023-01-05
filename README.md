@@ -1,3 +1,7 @@
+
+![Screenshot](my_img.png)
+
+
 ### Hi is What i'm working on 👋
 
 Here are some ideas to get you started:
