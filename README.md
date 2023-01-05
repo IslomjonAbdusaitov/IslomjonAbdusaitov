@@ -1,6 +1,4 @@
-
 ![Screenshot](my_img.png)
-
 
 ### Hi is What i'm working on 👋
 
