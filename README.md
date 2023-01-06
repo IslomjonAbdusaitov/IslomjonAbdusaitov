@@ -19,7 +19,8 @@
 
 💬 Ask me about any technology.
 - 🌱 I’m currently learning Android (Native) Development.
-- 😄 Pronouns: Hi/Him
+- 😄 Pronouns: Hi/Him 
+  
 ⚡ Fun fact: I am relaxed
 
 ### Connect with me:
