@@ -3,7 +3,7 @@
 
 <div>
   
-## Hi is What i'm working on 👋
+## About me 📃
 
 📚 Student of TUIT.
 
