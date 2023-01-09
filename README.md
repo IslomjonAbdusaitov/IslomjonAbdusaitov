@@ -1,6 +1,5 @@
-
 <img 
-     src=https://github.com/IslomjonAbdusaitov/IslomjonAbdusaitov/blob/main/my_img.png align="center" alt="GitHub" />
+     src=https://github.com/IslomjonAbdusaitov/IslomjonAbdusaitov/blob/main/my_img.png align="center" alt="👋 Hi there! I'm Islomjon Abdusaitov" title="👋Hi there! I'm Islomjon Abdusaitov" />
 
 <div>
   
