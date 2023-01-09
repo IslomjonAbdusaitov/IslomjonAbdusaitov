@@ -1,8 +1,6 @@
 
-![Screenshot](my_img.png)
-
-<img align="center"
-     src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+<img 
+     src=https://github.com/IslomjonAbdusaitov/IslomjonAbdusaitov/blob/main/my_img.png align="center" alt="GitHub" />
 
 <div>
   
